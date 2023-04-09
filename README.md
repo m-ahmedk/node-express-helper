@@ -20,12 +20,11 @@ npm install
 To run this project, you need:
 
 - Node.js
-- MongoDB
 - npm
 
 ## Built With
-Node.js
-Express
+- Node.js
+- Express
 
 ## Contributing
 If you would like to contribute to the project, please reach out to the repository owner.
